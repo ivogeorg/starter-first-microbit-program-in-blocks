@@ -50,5 +50,16 @@ This assignment asks you to "write" your first micro:bit program in Blocks, and 
 
 ## Resources
 
+1. [micro:bit lessons](https://makecode.microbit.org/lessons).
+
+2. [micro:bit ideas](https://microbit.org/ideas/).
+
+3. A list of some more [advanced projects](https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects).
+
+4. The [projects](https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects) at the [awesome micro:bit list](https://github.com/carlosperate/awesome-microbit).
+
 ## Github Installation
 
+1. On Linux or MacOS, you probably already have 'git' installed. Type 'which git' in a terminal to verify. If not, download and install from the [Git website](https://git-scm.com/) (it will recognize your OS and will offer you to download the appropriate installer package).
+
+2. For windows, to the [Git website](https://git-scm.com/) (it will recognize your OS and will offer you to download the appropriate installer program).
